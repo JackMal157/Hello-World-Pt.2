@@ -14,8 +14,7 @@ main {
 }
 
 .masthead {
-    background-image: url(Computer\ image.png);
-    background: no-repeat bottom / cover;
+    background: no-repeat bottom / cover url(Computer\ image.png)
     height: 250px;
     border-radius: 20px;
 
@@ -45,7 +44,6 @@ main {
 
 .details section.with-code {
     padding: 0;
-
 }
 
 div.code-html {
