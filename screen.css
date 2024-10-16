@@ -30,18 +30,18 @@ main {
 .details section {
     flex-grow: 1;
     flex-basis: 0;
-    background: #eeee;
+    background: #E9EAEC;
     padding: 20px;
     border-radius: 20px;
     margin-top: 25px;
 }
 
 .details section p {
-    margin: 25px  
+    margin: 25px;  
 }
 
 .details section h2 {
-    padding: 25px; 
+    margin: 25px; 
 }
 
 .details section.with-code {
