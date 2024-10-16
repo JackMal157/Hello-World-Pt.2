@@ -41,7 +41,7 @@ main {
 }
 
 .details section h2 {
-    padding 25px; 
+    padding: 25px; 
 }
 
 .details section.with-code {
